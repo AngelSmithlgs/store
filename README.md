@@ -1,7 +1,7 @@
 
 
 # Store
-
+this just for practice :pp
 
 ## Angular
 
